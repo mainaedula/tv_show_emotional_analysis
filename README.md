@@ -6,7 +6,7 @@
 
 Most of us consume some form of entertainment every single day. But what factors drive the choices we make around entertainment? And specifically how do our emotions play a role in this process? This data from Magid embarks on a comprehensive analysis of the emotional landscape of TV entertainment, specifically by compiling numerous TV shows from top networks and streaming services. Some of the information gathered on these shows include subgenre categorization, emotional dimensions, proximity to other shows, and intention for watching.
 
-These insights can be used to better understand why we watch what we watch. What shows do we watch when certain emotions are present? Or do we only end up watching things that are recommemded by others? While for the everyday consumer this exercise is merely an interesting introspective opportunity, for entertainment companies this is a powerful tool. They can leverag this data to better understand consumer behavior, which will  drive their marketing strategies and recommendation algorithms to ultimately increase revenue.
+These insights can be used to better understand why we watch what we watch. What shows do we watch when certain emotions are present? Or do we only end up watching things that are recommemded by others? While for the everyday consumer this exercise is merely an interesting introspective opportunity, for entertainment companies this is a powerful tool. They can leverage this data to better understand consumer behavior, which will drive their marketing strategies and recommendation algorithms to ultimately increase revenue.
 
 
 ## Data design
