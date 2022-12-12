@@ -11,7 +11,7 @@ These insights can be used to better understand why we watch what we watch. What
 
 ## Data design
 
-This data consisted of various separate datasets/csv files. The ones of interest for this project were identified and extracted separately. Some joins were performed as well to combine data in different tables. Data from some of the columns had to be aggregated because it applied for the same show across various dates, but then these values had to be renamed for a clean presentation.
+Overall, this data set was pretty clean from the start. It consisted of various separate tables/csv files but the ones of interest for this project were identified and extracted separately. An inner join was performed as well to combine the data in 2 separate tables. Data from some of the columns had to be aggregated because it applied for the same show across various dates, but then these values were renamed for a clean presentation.
 
 ## Future work:
 
